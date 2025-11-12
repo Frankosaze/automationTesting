@@ -18,8 +18,3 @@ Please click on the links below to see some samples projects.
 ### Test Scenario: Recruitment CRM functionality
 - **Feature File:** https://github.com/Frankosaze/Selenium-Cucumber-framework/blob/main/src/test/resources/features/OrangeHRM.feature
 - **Step Definitions:** https://github.com/Frankosaze/Selenium-Cucumber-framework/blob/main/src/test/java/stepDefinitions/OrangeHRM.java
-
-## API testing
-
-- **Json File:** https://github.com/Frankosaze/postmanAPI/blob/main/postman-api-testing.postman_collection.json
-- 
