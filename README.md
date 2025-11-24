@@ -17,7 +17,7 @@ Please click on the links below to see some samples projects. For more samples, 
 
 ## Human Resources
 
-### Test Scenario: Recruitment CRM functionality
+### Test Scenario: End-to-End Testing of Recruitment CRM Application
 - **Feature File:** https://github.com/Frankosaze/Selenium-Cucumber-framework/blob/main/src/test/resources/features/OrangeHRM.feature
   
 - **Step Definitions:** https://github.com/Frankosaze/Selenium-Cucumber-framework/blob/main/src/test/java/stepDefinitions/OrangeHRM.java
